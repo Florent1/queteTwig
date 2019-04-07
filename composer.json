@@ -1,0 +1,12 @@
+{
+    "name": "florent/twig",
+    "authors": [
+        {
+            "name": "Florent Duval",
+            "email": "florent3300047@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
